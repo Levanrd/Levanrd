@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Levanrd (Lester Ivan R Dalaguit)
 - 👀 I’m interested in **Web App Development**
 - 🌱 I’m currently learning **Laravel, Vue ,Nuxt, Axios, Vuex**
-- 👨‍💻 All of my projects are available at **bit.ly/3yZrf7X**
+- 👨‍💻 All of my projects are available **<a href="" target="_blank">here</a>**
 - 📫 Reach me at **lesterivan.dalaguit@gmail.com**
 - ⚡ Fun fact: ...
 
