@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Levanrd (Lester Ivan R Dalaguit)
-- 👀 I’m interested in **Web App Development, Website Development, CMS Development, IMS Development**
-- 🌱 I’m currently rooted in **HTML, CSS, Javascript, Node.js, VueJs, Vue Test Utils, Laravel, & Pest**
-- ⚡I'm learning **ReactJs, NextJs, Expo, & Supabase**
-- 👨‍💻 All of my projects are available **<a href="https://web-profile-rho-one.vercel.app" target="_blank">here</a>**
+- 👀 I’m interested in **Web App Development, Website Development, CMS Development, IMS Development, E-commerce Systems**
+- 🌱 I’m currently rooted in **HTML, CSS, Javascript, VueJs, Vue Test Utils, Inertia Js, NodeJS, ExpressJs, Laravel, & Php Unit**
+- ⚡I'm learning **GSAP, Nuxt Shopify, AWS & Supabase**
+- 👨‍💻 All of my projects are available **<a href="https://web-profile-two-lilac.vercel.app/" target="_blank">here</a>**
 - 📫 Reach me at **lesterivan.dalaguit@gmail.com**
 
 <!---
