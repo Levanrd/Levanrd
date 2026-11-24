@@ -83,9 +83,9 @@ SOFTWARE.
     <text x="268" y="182" fill="#7a7f99">$</text>
     <text x="288" y="182" fill="#c9d1d9">cat now.md</text>
     <text x="110" y="204" fill="#fcd34d">## currently</text>
-    <text x="110" y="224" fill="#c9d1d9">- building full-stack apps with Laravel, Vue, Next.js, and React</text>
-    <text x="110" y="242" fill="#c9d1d9">- working with Tailwind CSS, shadcn/ui, and Docker</text>
-    <text x="110" y="260" fill="#c9d1d9">- learning C# and ASP.NET</text>
+    <text x="110" y="224" fill="#c9d1d9">- web: TypeScript, React, Next.js, Vue, Nuxt, Tailwind CSS, Laravel, Node.js, Express.js</text>
+    <text x="110" y="242" fill="#c9d1d9">- mobile: React Native with Expo and Expo Go for Android and iOS</text>
+    <text x="110" y="260" fill="#c9d1d9">- MySQL, PostgreSQL, MongoDB, Supabase, Shopify, WordPress, Docker, and AWS</text>
 
     <!-- Prompt 3 -->
     <text x="110" y="290" fill="#a78bfa">levanrd@dev</text>
